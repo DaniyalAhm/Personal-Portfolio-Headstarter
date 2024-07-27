@@ -1,5 +1,3 @@
-
-```markdown
 # Personal Portfolio
 
 This is the personal portfolio of Daniyal Ahmed, showcasing professional experience and personal projects. This portfolio is created using only HTML and CSS, making it a simple and clean template perfect for new computer science students who want to create their own portfolio.
@@ -40,29 +38,3 @@ To view and edit this project, follow the instructions below.
 
 ```bash
 git clone https://github.com/DaniyalAhm/Personal-Portfolio-Headstarter.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd Personal-Portfolio-Headstarter
-```
-
-3. Open `index.html` in your web browser to view the portfolio.
-
-## Usage
-
-You can use this template to create your own personal portfolio. Customize the HTML and CSS files as needed.
-
-## File Structure
-
-```
-Personal-Portfolio-Headstarter/
-│
-├── index.html             # Main HTML file
-├── main.css               # CSS file for styling
-├── wallpapersden.com_gradient-rainbow-5k_5120x2880.jpg  # Background image
-└── README.md              # Project README file
-```
-
-
