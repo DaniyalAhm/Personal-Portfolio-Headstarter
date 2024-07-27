@@ -32,9 +32,6 @@ To view and edit this project, follow the instructions below.
 - A web browser (e.g., Chrome, Firefox)
 - A text editor (e.g., VS Code, Sublime Text)
 
-### Installation
+### Acknowledgements
+- This was done for the 7 week Headstarter Software Engineering Fellowship
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/DaniyalAhm/Personal-Portfolio-Headstarter.git
